@@ -1,3 +1,3 @@
 # teste-dio
 
-Repositório de Testes de autenticações.
+Repositório de Testes de Autenticações.
